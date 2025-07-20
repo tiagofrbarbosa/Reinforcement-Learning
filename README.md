@@ -1,5 +1,7 @@
 # 🤖 Projeto Integrado – Aprendizado por Reforço Aplicado ao Mercado Financeiro
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Este projeto foi desenvolvido como parte do **MBA em Ciência de Dados e Inteligência Artificial** da **FIAP** pela turma **9DTSR**, com foco em aplicar técnicas de **Reinforcement Learning (RL)** para decisões automatizadas de compra e venda de ações.
 
 Utilizamos **Deep Q-Network (DQN)** para treinar um agente capaz de operar no mercado com base em dados históricos dos ativos **VALE3.SA**, **PETR4.SA** e **BRFS3.SA**.
